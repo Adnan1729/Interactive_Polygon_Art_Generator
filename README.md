@@ -38,6 +38,22 @@ To use this tool, simply run the script in a Jupyter Notebook environment or wit
 
 A plot will display based on your customizations, which you can regenerate as many times as you like with different settings.
 
+## Examples
+
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="images/image1.jpg" alt="Image 1" width="300"/></td>
+      <td><img src="images/image2.jpg" alt="Image 2" width="300"/></td>
+    </tr>
+    <tr>
+      <td><img src="images/image3.jpg" alt="Image 3" width="300"/></td>
+      <td><img src="images/image4.jpg" alt="Image 4" width="300"/></td>
+    </tr>
+  </table>
+</p>
+
+
 ## Contributing
 
 Contributions to this project are welcome! To contribute:
