@@ -55,7 +55,7 @@ def create_art(num_polygons, num_sides_range, color_scheme, transparency, rotati
 
 # Interactive widgets
 style = {'description_width': 'initial'}
-num_polygons_slider = widgets.IntSlider(value=50, min=10, max=100, step=1, description='Number of Polygons:', style=style)
+num_polygons_slider = widgets.IntSlider(value=50, min=10, max=200, step=1, description='Number of Polygons:', style=style)
 num_sides_range_slider = widgets.IntRangeSlider(value=[3, 8], min=3, max=12, step=1, description='Sides Range:', style=style)
 color_scheme_dropdown = widgets.Dropdown(options=['Bright', 'Pastel', 'Dark'], value='Bright', description='Color Scheme:', style=style)
 transparency_slider = widgets.FloatSlider(value=0.5, min=0.1, max=1.0, step=0.1, description='Transparency:', style=style)
