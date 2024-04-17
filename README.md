@@ -43,12 +43,12 @@ A plot will display based on your customizations, which you can regenerate as ma
 <p align="center">
   <table>
     <tr>
-      <td><img src="images/image1.jpg" alt="Image 1" width="300"/></td>
-      <td><img src="images/image2.jpg" alt="Image 2" width="300"/></td>
+      <td><img src="images/image1.jpeg" alt="Image 1" width="300"/></td>
+      <td><img src="images/image2.jpeg" alt="Image 2" width="300"/></td>
     </tr>
     <tr>
-      <td><img src="images/image3.jpg" alt="Image 3" width="300"/></td>
-      <td><img src="images/image4.jpg" alt="Image 4" width="300"/></td>
+      <td><img src="images/image3.jpeg" alt="Image 3" width="300"/></td>
+      <td><img src="images/image4.jpeg" alt="Image 4" width="300"/></td>
     </tr>
   </table>
 </p>
